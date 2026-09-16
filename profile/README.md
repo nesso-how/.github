@@ -13,7 +13,7 @@
 
 </div>
 
-Nesso is an interactive concept map where nodes are ideas and edges are typed semantic relations (52 types across 8 categories). Each concept carries spaced-repetition state scheduled by FSRS. Available as a web app and as native desktop builds for macOS and Windows.
+Nesso is an interactive concept map where nodes are ideas and edges are typed semantic relations. Each concept carries spaced-repetition state scheduled by FSRS. Available as a web app and as native desktop builds.
 
 ## Contact
 
