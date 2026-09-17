@@ -9,7 +9,7 @@
 
 **An app for building typed knowledge graphs for active learning.**
 
-[Website](https://nesso.how) · [Try it](https://app.nesso.how) · [Docs](https://nesso.how/docs/introduction) · [Releases](https://github.com/nesso-how/nesso/releases)
+[Website](https://nesso.how) · [Try it](https://app.nesso.how) · [Docs](https://nesso.how/docs/introduction) · [Discussions](https://github.com/nesso-how/nesso/discussions) · [Releases](https://github.com/nesso-how/nesso/releases)
 
 </div>
 
