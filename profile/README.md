@@ -17,11 +17,6 @@ Your knowledge lives in one graph. **All** always contains every concept.
 - **Vocabularies** provide relation types; you can also name your own.
 - **Plugins** provide the canvas, vocabularies, themes, and export, keeping the core small.
 
-Use the Explorer to navigate views, the canvas to build the graph, and the Inspector to edit the selection. The visible graph exports as JSON-LD. Available as a web app and as native desktop builds.
-
-> [!NOTE]
-> Pre-alpha software. The document is saved automatically in local storage, with no cross-device sync.
-
 ## Contact
 
 Questions, feedback, or support: [nesso-how@proton.me](mailto:nesso-how@proton.me).
