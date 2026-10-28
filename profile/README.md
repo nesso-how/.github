@@ -4,7 +4,7 @@
 
 # Nesso
 
-**A second brain for connecting ideas and building understanding in one knowledge graph, built on a small core with a simple plugin system.**
+**A local-first desktop app for connecting ideas and building understanding through a personal knowledge graph.**
 
 [Website](https://nesso.how) · [Try it](https://app.nesso.how) · [Discussions](https://github.com/nesso-how/nesso/discussions) · [Releases](https://github.com/nesso-how/nesso/releases)
 
@@ -15,7 +15,7 @@ Your knowledge lives in one graph. **All** always contains every concept.
 - **Concepts** are ideas, connected by directed, typed **relations**.
 - **Views** are named subsets of that graph, not copies.
 - **Vocabularies** provide relation types; you can also name your own.
-- **Plugins** provide the canvas, vocabularies, themes, and export, keeping the core small.
+- **Plugins** provide vocabularies, themes, and actions on the current view.
 
 ## Contact
 
