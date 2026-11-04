@@ -4,18 +4,18 @@
 
 # Nesso
 
-**A local-first desktop app for connecting ideas and building understanding through a personal knowledge graph.**
+**A local-first desktop app for learning, with a personal knowledge graph that grows with you.**
 
 [Website](https://nesso.how) · [Try it](https://app.nesso.how) · [Discussions](https://github.com/nesso-how/nesso/discussions) · [Releases](https://github.com/nesso-how/nesso/releases)
 
 </div>
 
-Your knowledge lives in one graph. **All** always contains every concept.
+We understand and remember by connecting new ideas to what we already know. Nesso lets you connect ideas, work through them in notes, and review what you’ve learned.
 
-- **Concepts** are ideas, connected by directed, typed **relations**.
-- **Views** are named subsets of that graph, not copies.
-- **Vocabularies** provide relation types; you can also name your own.
-- **Plugins** provide vocabularies, themes, and actions on the current view.
+- **Concepts** represent ideas, with colors, bold or italic labels, and Markdown notes.
+- **Relations** connect concepts with a type that describes the link between two ideas.
+- **Views** let you focus on a project, question, or theme. The same concept can appear in several views, with edits shared across them.
+- **Plugins** add vocabularies, themes, and actions. Review, Notes, Export, and Import are built in.
 
 ## Contact
 
